@@ -16,7 +16,7 @@ Recommended development environment is: Ubuntu 22+ with VSCode.
 ## Step 1: setup the project directory structure (Only once)
     Navigate to the desired location where you want to create the project directory and download the repository from Git: 
     
- Ex: - ~/Virgil_Nedelcu/LSEG_chatbot/
+ Ex: - ~/Virgil_Nedelcu/LSEG_chatbot/LSEG_chatbot
 
 ## Running app:
   To start the application, you can either click on `Run Python File` within VSCode or open a terminal, navigate to the directory containing the .py file, and execute the following command: `python3 chatbot.py`

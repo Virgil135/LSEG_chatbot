@@ -35,8 +35,7 @@ def get_stock_price(stock_code, stock_data):
 
     
 def main():
-    stock_data = load_stock_data("./LSEG_chatbot/stock_data.json")
-
+    stock_data = load_stock_data("./LSEG_chatbot/LSEG_chatbot/stock_data.json")
     abbreviations = {
         "LSE": "London Stock Exchange",
         "NYSE": "New York Stock Exchange",
