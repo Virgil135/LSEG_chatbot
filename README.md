@@ -41,5 +41,51 @@ Recommended development environment is: Ubuntu 22+ with VSCode.
 
  Upon selecting the stock exchange, a list of stocks will be presented. You can select the desired stock by entering its abbreviation, which is case-insensitive. Subsequently, the price will be displayed, and you will be given the option to select another stock or return to the main menu by pressing the "B/b" key.
 
+ Ex:
+        Hello! Welcome to LSEG. I'm here to help you:
+
+        Please select a Stock Exchange.
+        London Stock Exchange (LSE)
+        New York Stock Exchange (NYSE)
+        Nasdaq (NASDAQ)
+        Exit
+
+        Enter your choice: LSE
+
+        Stocks traded on London Stock Exchange:
+
+        1. CRODA INTERNATIONAL PLC (CRDA)
+        2. GSK PLC (GSK)
+        3. ANTOFAGASTA PLC (ANTO)
+        4. FLUTTER ENTERTAINMENT PLC (FLTR)
+        5. BARRATT DEVELOPMENTS PLC (BDEV)
+
+        Enter the stock code (or 'B' to go back): GSK
+
+        The current price of GSK PLC (GSK) is $1574.8
+
+        Stocks traded on London Stock Exchange:
+
+        1. CRODA INTERNATIONAL PLC (CRDA)
+        2. GSK PLC (GSK)
+        3. ANTOFAGASTA PLC (ANTO)
+        4. FLUTTER ENTERTAINMENT PLC (FLTR)
+        5. BARRATT DEVELOPMENTS PLC (BDEV)
+
+        Enter the stock code (or 'B' to go back): 
+
 ## Closing the app:
-  To close the application, simply type 'Exit', and the program will terminate.
+  To close the application, simply go back to main menu, type 'Exit', and the program will terminate.
+
+  Ex: 
+        Hello! Welcome to LSEG. I'm here to help you:
+
+        Please select a Stock Exchange.
+        London Stock Exchange (LSE)
+        New York Stock Exchange (NYSE)
+        Nasdaq (NASDAQ)
+        Exit
+
+        Enter your choice: Exit
+
+        Exiting the chatbot. Goodbye!
