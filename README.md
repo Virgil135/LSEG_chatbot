@@ -42,7 +42,7 @@ Recommended development environment is: Ubuntu 22+ with VSCode.
  Upon selecting the stock exchange, a list of stocks will be presented. You can select the desired stock by entering its abbreviation, which is case-insensitive. Subsequently, the price will be displayed, and you will be given the option to select another stock or return to the main menu by pressing the "B/b" key.
 
  Ex:
-        Hello! Welcome to LSEG. I'm here to help you:
+        "Hello! Welcome to LSEG. I'm here to help you:
 
         Please select a Stock Exchange.
         London Stock Exchange (LSE)
@@ -72,13 +72,13 @@ Recommended development environment is: Ubuntu 22+ with VSCode.
         4. FLUTTER ENTERTAINMENT PLC (FLTR)
         5. BARRATT DEVELOPMENTS PLC (BDEV)
 
-        Enter the stock code (or 'B' to go back): 
+        Enter the stock code (or 'B' to go back): "
 
 ## Closing the app:
   To close the application, simply go back to main menu, type 'Exit', and the program will terminate.
 
   Ex: 
-        Hello! Welcome to LSEG. I'm here to help you:
+        "Hello! Welcome to LSEG. I'm here to help you:
 
         Please select a Stock Exchange.
         London Stock Exchange (LSE)
@@ -88,4 +88,4 @@ Recommended development environment is: Ubuntu 22+ with VSCode.
 
         Enter your choice: Exit
 
-        Exiting the chatbot. Goodbye!
+        Exiting the chatbot. Goodbye!"
